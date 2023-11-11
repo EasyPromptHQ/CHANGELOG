@@ -1,4 +1,6 @@
 # Trending Section in Search Feature
+![image](<image/easyprompt (91).png>)
+
 Discover the hottest prompts with our new trending section in the search feature. Stay updated with the latest and most popular prompts at a glance.
 
 # Log in with Twitter

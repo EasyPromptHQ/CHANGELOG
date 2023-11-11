@@ -1,4 +1,5 @@
 # Share Prompts via Twitter
+![IMAGE](<image/easyprompt (93).png>)
 
 Now you can easily share your favorite prompts with the world! Use the new feature to share prompts directly via Twitter and let others discover the engaging world of EasyPrompt Library.
 

@@ -1,4 +1,6 @@
 # EasyPrompt Library is Live!
+![image](<image/easyprompt (88).png>)
+
 You can now access the EasyPrompt Library at [library.easyprompt.xyz](https://library.easyprompt.xyz). Start discovering over 100 powerful megaprompts for your chatGPT interactions!
 
 ## Added Over 100 Megaprompts
